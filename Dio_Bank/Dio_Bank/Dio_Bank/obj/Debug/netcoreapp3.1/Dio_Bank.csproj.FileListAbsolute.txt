@@ -1,0 +1,14 @@
+C:\Users\aline\Documents\GitHub\Dio_Bank\Dio_Bank\Dio_Bank\bin\Debug\netcoreapp3.1\Dio_Bank.exe
+C:\Users\aline\Documents\GitHub\Dio_Bank\Dio_Bank\Dio_Bank\bin\Debug\netcoreapp3.1\Dio_Bank.deps.json
+C:\Users\aline\Documents\GitHub\Dio_Bank\Dio_Bank\Dio_Bank\bin\Debug\netcoreapp3.1\Dio_Bank.runtimeconfig.json
+C:\Users\aline\Documents\GitHub\Dio_Bank\Dio_Bank\Dio_Bank\bin\Debug\netcoreapp3.1\Dio_Bank.runtimeconfig.dev.json
+C:\Users\aline\Documents\GitHub\Dio_Bank\Dio_Bank\Dio_Bank\bin\Debug\netcoreapp3.1\Dio_Bank.dll
+C:\Users\aline\Documents\GitHub\Dio_Bank\Dio_Bank\Dio_Bank\bin\Debug\netcoreapp3.1\Dio_Bank.pdb
+C:\Users\aline\Documents\GitHub\Dio_Bank\Dio_Bank\Dio_Bank\obj\Debug\netcoreapp3.1\Dio_Bank.csproj.AssemblyReference.cache
+C:\Users\aline\Documents\GitHub\Dio_Bank\Dio_Bank\Dio_Bank\obj\Debug\netcoreapp3.1\Dio_Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\Documents\GitHub\Dio_Bank\Dio_Bank\Dio_Bank\obj\Debug\netcoreapp3.1\Dio_Bank.AssemblyInfoInputs.cache
+C:\Users\aline\Documents\GitHub\Dio_Bank\Dio_Bank\Dio_Bank\obj\Debug\netcoreapp3.1\Dio_Bank.AssemblyInfo.cs
+C:\Users\aline\Documents\GitHub\Dio_Bank\Dio_Bank\Dio_Bank\obj\Debug\netcoreapp3.1\Dio_Bank.csproj.CoreCompileInputs.cache
+C:\Users\aline\Documents\GitHub\Dio_Bank\Dio_Bank\Dio_Bank\obj\Debug\netcoreapp3.1\Dio_Bank.dll
+C:\Users\aline\Documents\GitHub\Dio_Bank\Dio_Bank\Dio_Bank\obj\Debug\netcoreapp3.1\Dio_Bank.pdb
+C:\Users\aline\Documents\GitHub\Dio_Bank\Dio_Bank\Dio_Bank\obj\Debug\netcoreapp3.1\Dio_Bank.genruntimeconfig.cache

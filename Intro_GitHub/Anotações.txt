@@ -20,3 +20,6 @@ seta para cima = permite navegar no terminal sem ter que digitar.
 git config --global user.name= para configurar o nome de usuário.
 git config --global user.email=para configurar o email.
 git config --list= traz uma lista de informações do git.
+
+git checkout= retorna o arquivo para antes da edição.
+git add= adiciona um arquivo
